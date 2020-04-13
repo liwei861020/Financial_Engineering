@@ -9,4 +9,4 @@
 
 3.賣權現值、賣權的價格圖:0~n期
 
-![image](
+![image](https://github.com/liwei861020/Financial_Engineering/blob/master/hw3/images/hw3%E5%85%A8.png)
